@@ -1,0 +1,384 @@
+{
+  "geotiff": "C:\\Users\\samue\\OneDrive\\Desktop\\RD2_Project\\01_Data\\Satellite\\Birzebb.tif",
+  "crs": "EPSG:3857",
+  "bounds": {
+    "left": 1615747.7556050532,
+    "bottom": 4275454.221500874,
+    "right": 1619117.80439974,
+    "top": 4277643.523272604
+  },
+  "inference_params": {
+    "tile_size": 640,
+    "overlap": 128,
+    "conf_threshold": 0.25,
+    "class_thresholds": {
+      "Buildings": 0.35,
+      "Roads": 0.35,
+      "Non-developed Land": 0.4,
+      "Public Open Spaces": 0.35
+    },
+    "min_areas": {
+      "Buildings": 10,
+      "Roads": 20,
+      "Non-developed Land": 20,
+      "Public Open Spaces": 20
+    }
+  },
+  "detections": {
+    "Buildings": [
+      {
+        "class": "Buildings",
+        "confidence": 0.49837204813957214,
+        "centroid_gps": {
+          "longitude": 14.542370335717667,
+          "latitude": 35.83036932253109
+        },
+        "boundary_polygons": [],
+        "area_pixels": 37840
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.905409038066864,
+        "centroid_gps": {
+          "longitude": 14.52884482630226,
+          "latitude": 35.82856396667179
+        },
+        "boundary_polygons": [],
+        "area_pixels": 52800
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.5723727941513062,
+        "centroid_gps": {
+          "longitude": 14.527198435145252,
+          "latitude": 35.82836517949123
+        },
+        "boundary_polygons": [],
+        "area_pixels": 91504
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.6990161538124084,
+        "centroid_gps": {
+          "longitude": 14.530679481918924,
+          "latitude": 35.82696387868203
+        },
+        "boundary_polygons": [],
+        "area_pixels": 86036
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.934572696685791,
+        "centroid_gps": {
+          "longitude": 14.525020473749214,
+          "latitude": 35.826739016481014
+        },
+        "boundary_polygons": [],
+        "area_pixels": 122496
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.41929343342781067,
+        "centroid_gps": {
+          "longitude": 14.527080308425466,
+          "latitude": 35.826657544511804
+        },
+        "boundary_polygons": [],
+        "area_pixels": 102816
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.7264137268066406,
+        "centroid_gps": {
+          "longitude": 14.52880052878234,
+          "latitude": 35.82643594033245
+        },
+        "boundary_polygons": [],
+        "area_pixels": 146940
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.38878142833709717,
+        "centroid_gps": {
+          "longitude": 14.532551052135519,
+          "latitude": 35.8265500013844
+        },
+        "boundary_polygons": [],
+        "area_pixels": 50384
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.721418559551239,
+        "centroid_gps": {
+          "longitude": 14.524872815349479,
+          "latitude": 35.82543545493761
+        },
+        "boundary_polygons": [],
+        "area_pixels": 71392
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.5220431685447693,
+        "centroid_gps": {
+          "longitude": 14.517637553762633,
+          "latitude": 35.823330157834874
+        },
+        "boundary_polygons": [],
+        "area_pixels": 75920
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.4825492203235626,
+        "centroid_gps": {
+          "longitude": 14.527386699604909,
+          "latitude": 35.82353873465297
+        },
+        "boundary_polygons": [],
+        "area_pixels": 29640
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.41886913776397705,
+        "centroid_gps": {
+          "longitude": 14.528793145862354,
+          "latitude": 35.82331060373007
+        },
+        "boundary_polygons": [],
+        "area_pixels": 40128
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.807344377040863,
+        "centroid_gps": {
+          "longitude": 14.525190280908905,
+          "latitude": 35.82199394959159
+        },
+        "boundary_polygons": [],
+        "area_pixels": 37120
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.684817910194397,
+        "centroid_gps": {
+          "longitude": 14.527036010905546,
+          "latitude": 35.82163870995667
+        },
+        "boundary_polygons": [],
+        "area_pixels": 99200
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.6630807518959045,
+        "centroid_gps": {
+          "longitude": 14.525360088068593,
+          "latitude": 35.82034484206672
+        },
+        "boundary_polygons": [],
+        "area_pixels": 30192
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.899816632270813,
+        "centroid_gps": {
+          "longitude": 14.523034468272824,
+          "latitude": 35.8201558117429
+        },
+        "boundary_polygons": [],
+        "area_pixels": 42624
+      },
+      {
+        "class": "Buildings",
+        "confidence": 0.37870535254478455,
+        "centroid_gps": {
+          "longitude": 14.526873586665843,
+          "latitude": 35.81858488715566
+        },
+        "boundary_polygons": [],
+        "area_pixels": 39936
+      }
+    ],
+    "Roads": [],
+    "Non-developed Land": [
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.40204378962516785,
+        "centroid_gps": {
+          "longitude": 14.532739316595176,
+          "latitude": 35.83012165881505
+        },
+        "boundary_polygons": [],
+        "area_pixels": 139008
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.680336058139801,
+        "centroid_gps": {
+          "longitude": 14.516076066185475,
+          "latitude": 35.82999130918036
+        },
+        "boundary_polygons": [],
+        "area_pixels": 48024
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.4336562752723694,
+        "centroid_gps": {
+          "longitude": 14.519162126739863,
+          "latitude": 35.828681283462736
+        },
+        "boundary_polygons": [],
+        "area_pixels": 48832
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.4011992812156677,
+        "centroid_gps": {
+          "longitude": 14.52165017077534,
+          "latitude": 35.82815009771864
+        },
+        "boundary_polygons": [],
+        "area_pixels": 44748
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.4443069100379944,
+        "centroid_gps": {
+          "longitude": 14.517190887103448,
+          "latitude": 35.826941066603716
+        },
+        "boundary_polygons": [],
+        "area_pixels": 29928
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.48991021513938904,
+        "centroid_gps": {
+          "longitude": 14.515976396765655,
+          "latitude": 35.826778122996515
+        },
+        "boundary_polygons": [],
+        "area_pixels": 25344
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.7509514093399048,
+        "centroid_gps": {
+          "longitude": 14.514758214967872,
+          "latitude": 35.825621213765665
+        },
+        "boundary_polygons": [],
+        "area_pixels": 5944
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.5534263849258423,
+        "centroid_gps": {
+          "longitude": 14.51504984030734,
+          "latitude": 35.823985217561805
+        },
+        "boundary_polygons": [],
+        "area_pixels": 4776
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.6592978835105896,
+        "centroid_gps": {
+          "longitude": 14.519199041339794,
+          "latitude": 35.82360391479622
+        },
+        "boundary_polygons": [],
+        "area_pixels": 61880
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.565348744392395,
+        "centroid_gps": {
+          "longitude": 14.515950556545704,
+          "latitude": 35.82374731092297
+        },
+        "boundary_polygons": [],
+        "area_pixels": 30008
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.5826090574264526,
+        "centroid_gps": {
+          "longitude": 14.515511272806501,
+          "latitude": 35.82062838670845
+        },
+        "boundary_polygons": [],
+        "area_pixels": 2376
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.6641170382499695,
+        "centroid_gps": {
+          "longitude": 14.515692154346173,
+          "latitude": 35.8189759916189
+        },
+        "boundary_polygons": [],
+        "area_pixels": 2664
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.4008665382862091,
+        "centroid_gps": {
+          "longitude": 14.540258820601505,
+          "latitude": 35.818835846074414
+        },
+        "boundary_polygons": [],
+        "area_pixels": 54528
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.61046302318573,
+        "centroid_gps": {
+          "longitude": 14.530967415798399,
+          "latitude": 35.81827200219779
+        },
+        "boundary_polygons": [],
+        "area_pixels": 63176
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.43607503175735474,
+        "centroid_gps": {
+          "longitude": 14.515932099245735,
+          "latitude": 35.8172909694916
+        },
+        "boundary_polygons": [],
+        "area_pixels": 2112
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.7096146941184998,
+        "centroid_gps": {
+          "longitude": 14.517737223182454,
+          "latitude": 35.81719319148115
+        },
+        "boundary_polygons": [],
+        "area_pixels": 37548
+      },
+      {
+        "class": "Non-developed Land",
+        "confidence": 0.4337822198867798,
+        "centroid_gps": {
+          "longitude": 14.516349234224979,
+          "latitude": 35.81711170971378
+        },
+        "boundary_polygons": [],
+        "area_pixels": 3224
+      }
+    ],
+    "Public Open Spaces": []
+  },
+  "summary": {
+    "total_detections": 34,
+    "by_class": {
+      "Buildings": 17,
+      "Roads": 0,
+      "Non-developed Land": 17,
+      "Public Open Spaces": 0
+    }
+  }
+}

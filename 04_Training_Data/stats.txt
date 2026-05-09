@@ -1,0 +1,21 @@
+images = 161 *4*640*640
+
+Class feature statistics:
+features = 161
+features per image = [min = 1, mean = 1.00, max = 1]
+classes = 4
+cls name                                  cls value     images   features    min size   mean size    max size
+1                                                 1         82         82        0.00        0.00        0.00
+2                                                 2         23         23        0.00        0.00        0.00
+3                                                 3         50         50        0.00        0.00        0.00
+4                                                 4          6          6        0.00        0.00        0.00
+
+Instance feature statistics:
+features = 0
+features per image = [min = 0, mean = 0.00, max = 0]
+classes = 4
+cls name                                  cls value     images   features    min size   mean size    max size
+1                                                 1          0          0        0.00        0.00        0.00
+2                                                 2          0          0        0.00        0.00        0.00
+3                                                 3          0          0        0.00        0.00        0.00
+4                                                 4          0          0        0.00        0.00        0.00

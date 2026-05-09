@@ -1,0 +1,5 @@
+Class,Pixel_Count,Mean_Height,Median_Height,Min_Height,Max_Height,Std_Height
+Buildings,1127799,4.278839588165283,3.0,0.0,38.77245330810547,4.500474452972412
+Roads,0,,,,,
+Non-developed Land,404860,0.3652399480342865,0.0,0.0,13.874201774597168,0.9839239120483398
+Public Open Spaces,0,,,,,

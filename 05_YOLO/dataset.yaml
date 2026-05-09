@@ -1,0 +1,9 @@
+path: C:\Users\samue\OneDrive\Desktop\RD2_Project\05_YOLO
+train: train/images
+val: val/images
+
+names:
+  0: Buildings
+  1: Roads
+  2: Undeveloped
+  3: POS

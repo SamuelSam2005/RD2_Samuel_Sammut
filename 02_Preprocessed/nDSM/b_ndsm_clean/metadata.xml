@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260502</CreaDate><CreaTime>17055600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Image Analyst Tools.tbx\RasterCalculator" Date="20260502" Time="170556">RasterCalculator " SetNull("BZB_nDSM2018"&lt;0,"BZB_nDSM2018")" C:\Users\samue\OneDrive\Desktop\RD2_Project\02_Preprocessed\nDSM\B_nDSM_Clean</Process></lineage></DataProperties></Esri></metadata>

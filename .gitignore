@@ -1,0 +1,7 @@
+*.tif
+*.tfw
+*.aux.xml
+*.ovr
+*.lock
+*.gdb/
+*.aprx
